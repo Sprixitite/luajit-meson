@@ -1,2 +1,2 @@
 # luajit-meson
-Shameless bashing together of [lua-meson](https://github.com/OrfeasZ/lua-meson/) currently vendored in sol2's subproject folder and the official meson WrapDB for luajit, I do not claim to have written any of this code.
+Shameless bashing together of [lua-meson](https://github.com/OrfeasZ/lua-meson/) currently vendored in sol2's subproject folder and the [official meson WrapDB for luajit](https://wrapdb.mesonbuild.com/v2/luajit_2.1.1720049189-1/luajit.wrap), I do not claim to have written any of this code.
